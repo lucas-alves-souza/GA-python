@@ -1,1 +1,1 @@
-# Generic Algorithim with python 
+# Generic Algorithm with python 
